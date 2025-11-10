@@ -35,10 +35,3 @@
 ## 🗂️ Kesimpulan
 Kegiatan ini membantu saya memahami bahwa **data tidak hanya angka**, tetapi juga informasi yang bisa dianalisis untuk mengambil keputusan.  
 Visualisasi dan AI membuat proses analisis data menjadi lebih mudah, menarik, dan efisien.
-
----
-
-## 📊 Diagram Batang Rata-Rata Nilai per Mapel
-
-Menunjukkan perbandingan nilai rata-rata dari setiap mata pelajaran.  
-Dari grafik terlihat bahwa **Matematika** memiliki nilai tertinggi, sedangkan **Bahasa Inggris** paling rendah.
