@@ -42,7 +42,3 @@ Visualisasi dan AI membuat proses analisis data menjadi lebih mudah, menarik, da
 
 Menunjukkan perbandingan nilai rata-rata dari setiap mata pelajaran.  
 Dari grafik terlihat bahwa **Matematika** memiliki nilai tertinggi, sedangkan **Bahasa Inggris** paling rendah.
-
-🖼️ *Contoh grafik batang:*
-
-![Diagram Batang Rata-Rata Nilai per Mapel(rata-rata nilai per mapel.png)]
